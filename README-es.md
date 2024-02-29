@@ -3,7 +3,7 @@
 
 ###El archivo base llamado "prog-01.c" es un codigo de programacion en lenguaje de C, que cumple con una tarea que es imprimir en pantalla la cadena "Hola Mundo" en el idioma Español.
 
-####Acontinuacion un ejemplo
+####Ejemplo:
 
 ##(#include <stdio.h>)
 
